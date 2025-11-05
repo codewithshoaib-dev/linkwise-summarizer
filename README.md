@@ -39,4 +39,4 @@ cd linkwise-summarizer
 npm install
 npm run dev
 ```
-Then open http://localhost3000.
+Then open http://localhost:3000.
